@@ -1,0 +1,7 @@
+- git add
+- git init
+- git commit -m "Message here"
+- git status
+- git diff
+- 
+- 
